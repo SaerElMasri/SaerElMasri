@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/saer-el-masri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saer el masri" height="30" width="40" /></a>
 
-<a href="https://github.com/SaerElMasri" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="saer el masri" height="30" width="40" /></a>
+<a href="https://github.com/SaerElMasri" target="blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="saer el masri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
