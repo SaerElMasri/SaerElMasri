@@ -1,5 +1,5 @@
 <p align="center">
-  ![MasterHead](https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif)
+    <img src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif" alt="animated" />
 </p>
 <h1 align="center">Hi 👋, I'm Saer El Masri</h1>
 <h3 align="center">A passionate programmer to become a Full-Stack Developer based in Lebanon</h3>
