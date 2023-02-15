@@ -3,18 +3,23 @@
 </p>
 <h1 align="center">Hi 👋, I'm Saer El Masri</h1>
 <h3 align="center">A passionate programmer to become a Full-Stack Developer based in Lebanon</h3>
+<p>Highly motivated Computer Science student with excitement on gaining real-life experience in the technology industry to develop and learn new skills. Seeking to improve my work expertise and expand my experience in the technology industry. I am looking for a new chapter in my life where I can take advantage of my skills gained through my university life and personal life. I am an enthusiastic person who wants to learn new technical skills.
+</p>
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaerElMasri?tab=repositories](https://github.com/SaerElMasri?tab=repositories)
 
-- 📫 How to reach me **saer1890@gmail.com**
+- 📫 How to reach me here: **saer1890@gmail.com**
+- 📫 Also, you can reach me here: **https://www.linkedin.com/in/saer-el-masri/**
 
 - ⚡ Fun fact **If you want to spend some free-time playing some games, call me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saer el masri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saer el masri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saer-el-masri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saer el masri" height="30" width="40" /></a>
+
+<a href="https://github.com/SaerElMasri" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="saer el masri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
