@@ -1,10 +1,10 @@
-![MasterHead](https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif)
+<p align="center">
+  ![MasterHead](https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif)
+</p>
 <h1 align="center">Hi 👋, I'm Saer El Masri</h1>
 <h3 align="center">A passionate programmer to become a Full-Stack Developer based in Lebanon</h3>
 
 - 🌱 I’m currently learning **Full-Stack Development**
-(img align="center" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif")
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaerElMasri?tab=repositories](https://github.com/SaerElMasri?tab=repositories)
 
