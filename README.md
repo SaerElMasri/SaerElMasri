@@ -1,9 +1,9 @@
-[![MasterHead](https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif)
+![MasterHead](https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif)
 <h1 align="center">Hi 👋, I'm Saer El Masri</h1>
 <h3 align="center">A passionate programmer to become a Full-Stack Developer based in Lebanon</h3>
 
 - 🌱 I’m currently learning **Full-Stack Development**
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966")
+(img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif")
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaerElMasri?tab=repositories](https://github.com/SaerElMasri?tab=repositories)
