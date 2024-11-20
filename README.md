@@ -2,11 +2,11 @@
     <img src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif" alt="animated" />
 </p>
 <h1 align="center">Hi 👋, I'm Saer El Masri</h1>
-<h3 align="center">A passionate programmer to become a Full-Stack Developer based in Lebanon</h3>
-<p>Highly motivated Computer Science student with excitement on gaining real-life experience in the technology industry to develop and learn new skills. Seeking to improve my work expertise and expand my experience in the technology industry. I am looking for a new chapter in my life where I can take advantage of my skills gained through my university life and personal life. I am an enthusiastic person who wants to learn new technical skills.
+<h3 align="center">A passionate Full-Stack Developer based in Lebanon</h3>
+<p>I am a driven Full Stack Developer with a strong foundation in building scalable web applications. Eager to solve complex problems and continuously improve, I’m excited to bring my technical skills and creativity to new challenges. I’m looking for an opportunity to grow, collaborate with dynamic teams, and contribute to impactful projects in the tech industry.
 </p>
 
-- 🌱 I’m currently learning **Full-Stack Development**
+- 🌱 I am a Full-stack developer with knownledge in Web and Mobile development
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaerElMasri?tab=repositories](https://github.com/SaerElMasri?tab=repositories)
 
