@@ -3,10 +3,10 @@
 </p>
 <h1 align="center">Hi 👋, I'm Saer El Masri</h1>
 <h3 align="center">A passionate Full-Stack Developer based in Lebanon</h3>
-<p>I am a driven Full Stack Developer with a strong foundation in building scalable web applications. Eager to solve complex problems and continuously improve, I’m excited to bring my technical skills and creativity to new challenges. I’m looking for an opportunity to grow, collaborate with dynamic teams, and contribute to impactful projects in the tech industry.
+<p>I’m a passionate and proactive Full Stack Developer who loves building innovative web and mobile applications. I’m always working on personal projects to sharpen my skills, grow my portfolio, and dive into new technologies. For me, being a Full Stack Developer is more than just a job, it’s a way to create, learn, and push myself to new heights. Outside of coding, I’m a tech enthusiast with a love for video games and sports, bringing creativity and energy to everything I do. I’m excited to collaborate with great teams and work on projects that make an impact.
 </p>
 
-- 🌱 I am a Full-stack developer with knownledge in Web and Mobile development
+- 🌱 Full-stack developer with knownledge in Web and Mobile development
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaerElMasri?tab=repositories](https://github.com/SaerElMasri?tab=repositories)
 
